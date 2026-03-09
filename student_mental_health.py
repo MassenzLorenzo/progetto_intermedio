@@ -191,6 +191,12 @@ La direzione (negativa) risulta ininfluente data la debolezza del legame.
 Coerenza con il contesto: "Questo risultato è coerente con quanto osservato visivamente nello scatter plot precedente.
 Nel contesto degli studenti analizzati, l'ammontare di attività fisica settimanale non sembra 
 essere un fattore che influenza in alcun modo la durata del sonno notturno.
+
+Come richiesto dalle linee guida, è fondamentale ricordare un principio importante: correlazione ≠ causalità.
+Anche se avessimo riscontrato un forte legame matematico tra le ore di sport e le ore di sonno,
+non avremmo potuto concludere automaticamente che fare sport 'causi' un aumento o una diminuzione del sonno.
+Avrebbe solo indicato che le due variabili tendono a muoversi insieme. Nel nostro caso specifico,
+la mancanza di correlazione chiude ulteriormente l'ipotesi di un legame diretto.
 """
 
 # ==========================================
